@@ -24,11 +24,11 @@ Organizadas de forma conjunta, estas escolas regionais pretendem estimular o est
 Por outro lado, aplicações de AM e IA também vêm impondo novos desafios aos sistemas computacionais de alto desempenho tradicionais, que necessitam cada vez mais lidar com cargas de trabalho heterogêneas, resultando em novos tópicos de pesquisa. Assim, o objetivo desse evento conjunto é promover ao máximo o intercâmbio de informações e incentivar a pesquisa na intersecção entre as áreas de ACPAD, AM e IA.
 {: .text-justify}
 
-A V ERAD\|ERAMIA Norte 2 2025 será realizada de **forma presencial** em Santarem  na [Universidade do Sul e Sudeste do Pará - UNIFESPA](https://www.unifesspa.edu.br/) Campus Tapajós no período de **2 a 3 de dezembro de 2025**. As atividades a acontecer durante o evento são: Fórum de Iniciação Científica; Fórum de Pos-Graduação; Minicursos e Palestras.
+A V ERAD\|ERAMIA Norte 2 2025 será realizada de **forma presencial** em Santarem  na [Universidade Federal do Sul e Sudeste do Pará - Unifesspa](https://www.unifesspa.edu.br/) Campus Marabá no período de **2 a 3 de dezembro de 2025**. As atividades a acontecer durante o evento são: Fórum de Iniciação Científica; Fórum de Pos-Graduação; Minicursos e Palestras.
 {: .text-justify}
 
 
-A V ERAD\|ERAMIA-NO2 2025 acontecerá na [Universidade do Sul e Sudeste do Pará - UFOPA](https://www.unifesspa.edu.br/). Veja o Mapa:
+A V ERAD\|ERAMIA-NO2 2025 acontecerá na [Universidade Federal do Sul e Sudeste do Pará - Unifesspa](https://www.unifesspa.edu.br/). Veja o Mapa:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53545.11122347411!2d-49.165184278320254!3d-5.350412899999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92c3a10474f5199d%3A0xa762792cad7bff0b!2sUNIFESSPA%20-%20Campus%20Marab%C3%A1%20Unidade%20II!5e1!3m2!1spt-BR!2sbr!4v1751664426565!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
