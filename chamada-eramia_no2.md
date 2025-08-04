@@ -4,41 +4,35 @@ title: Chamada de Trabalhos - V ERAMIA-NO2 - 2025
 subtitle: Fórum de Iniciação Científica e Pósgraduação
 ---
 
-@s autor@s interessad@s em apresentar seus trabalhos na V Escola Regional de Aprendizado de Máquina e Inteligência Artificial Norte 2 deverão submeter resumos expandidos em [formato da SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip) de máximo 4 páginas em Português ou Inglês no formato da SBC utilizando o Link no sistema JEMS. Os Resumos serão avaliados pelos membros do comitê de programa e por revisores externos ao comitê. Os anais serão publicados no SBC OpenLib (SOL), o portal de publicações e conteúdo digital mantido pela Sociedade Brasileira de Computação (SBC).
+Prezadas pessoas autoras interessadas em apresentar seus trabalhos na V Escola Regional de Aprendizado de Máquina e Inteligência Artificial Norte 2 deverão submeter resumos expandidos em formato da SBC de máximo 4 páginas em Português ou Inglês no formato da SBC utilizando o Link no sistema JEMS. Os Resumos serão avaliados pelos membros do comitê de programa e por revisores externos ao comitê. Os anais serão publicados no SBC OpenLib (SOL), o portal de publicações e conteúdo digital mantido pela Sociedade Brasileira de Computação (SBC).
 
 ### Datas importantes:
-- **Data de abertura das chamadas:** a definir
-- **Data limite de submissão de trabalhos:** a definir
-- **Data de notificação de aceitação:** a definir
-- **Data de envio da versão final:**  a definir
+
+- **Data de abertura das chamadas:** 10/08/2025
+- **Data limite de submissão de trabalhos:** 30/09/2025
+- **Data de notificação de aceitação:** 31/10/2025
+- **Data de envio da versão final:** 10/11/2025
 
 ## Tópicos de Interesse
 
-A chamada de trabalhos está aberta para os seguintes tópicos de interesse (mas não limitada a apenas estes):
-
-<ul>
-  <li> 
-- Aprendizado de Máquina</li><li>
-- Representação de Conhecimento</li><li>
-- Busca Heurística</li><li>
-- Computação Evolucionária e Metaheurística</li><li>
-- Planejamento e Escalonamento Automático</li><li>
-- Raciocínio sob Incerteza</li><li>
-- Ferramentas de Software para ML e IA</li><li>
-- CAD aplicada para ML e IA</li><li>
-- IA distribuída e Multiagentes</li><li>
-- Fundamentos da IA</li><li>
-- Inteligência Computacional</li><li>
-- Sistemas Nebulosos</li><li>
-- Web Semântica e Ontologias</li><li>
-- Programação Lógica</li><li>
-- Robótica Inteligente</li><li>
-- Processamento de Linguagem Natural</li><li>
-- Aprendizado por Reforço</li><li>
-- Sistemas Tutores Inteligentes</li>
-</ul>
-
-
+* Aprendizado de Máquina
+* Representação de Conhecimento
+* Busca Heurística
+* Computação Evolucionária e Metaheurística
+* Planejamento e Escalonamento Automático
+* Raciocínio sob Incerteza
+* Ferramentas de Software para ML e IA
+* CAD aplicada para ML e IA
+* IA distribuída e Multiagentes
+* Fundamentos da IA
+* Inteligência Computacional
+* Sistemas Nebulosos
+* Web Semântica e Ontologias
+* Programação Lógica
+* Robótica Inteligente
+* Processamento de Linguagem Natural
+* Aprendizado por Reforço
+* Sistemas Tutores Inteligentes
 
 ## Comissão Organizadora V ERAD\|ERAMIA-NO2 2025 
 
@@ -64,6 +58,9 @@ A chamada de trabalhos está aberta para os seguintes tópicos de interesse (mas
 * Marcelino Silva da Silva - Universidade Federal do Oeste do Pará Campus Santarém
 * Marcos Tulio Amaris Gonzalez - Universidade Federal do Pará Campus Belém
 * Paula Renatha - Universidade Federal do Oeste do Pará Campus Santarém
+
+### Comitê de Programa
+A definir ...
 
 
 

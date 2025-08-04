@@ -1,6 +1,6 @@
 ---
 layout: home
-title: V ERAD|ERAMIA-NO2 2024
+title: V ERAD|ERAMIA-NO2 2025
 ---
 <style type="text/css">
 .text-justify {
@@ -9,13 +9,13 @@ title: V ERAD|ERAMIA-NO2 2024
 </style>
 
 
-A **V Escola Regional de Alto Desempenho Região Norte 2 e a V Escola Regional de Aprendizado de Máquina e Inteligência Artificial Região Norte 2**  são eventos promovidos pela Sociedade Brasileira de Computação – SBC. [Inscrições pelo sistema ECOS da SBC](https://centraldesistemas.sbc.org.br/ecos/eradeeramiaNO2-2025). 
+A **V Escola Regional de Alto Desempenho Norte 2 e a V Escola Regional de Aprendizado de Máquina e Inteligência Artificial Norte 2** são eventos promovidos pela Sociedade Brasileira de Computação – SBC. Inscrições pelo sistema ECOS da SBC.
 {: .text-justify}
 
-A ERAD-NO2 é um evento anual promovido pela Comissão Especial de Arquitetura de Computadores e Processamento de Alto Desempenho (CE-ACPAD) da Sociedade Brasileira de Computação – SBC. A ERAMIA-NO2 é um evento promovido pelas Comissões Especiais de Inteligência Artificial (CE-IA) e de Inteligência Computacional (CE-IC) da SBC.
+O ERAD-NO2 é um evento anual promovido pela Comissão Especial de Arquitetura de Computadores e Processamento de Alto Desempenho (CE-ACPAD) da Sociedade Brasileira de Computação – SBC. A ERAMIA-NO2 é um evento promovido pelas Comissões Especiais de Inteligência Artificial (CE-IA) e de Inteligência Computacional (CE-IC) da SBC.
 {: .text-justify}
 
-O propósito da quarta ERAD e ERAMIA da região Norte do Brasil é trazer aos estudantes de graduação e pós-graduação conhecimento científico atualizado nas áreas de Arquitetura de Computadores e Processamento de Alto Desempenho (ACPAD), como nas áreas de Aprendizado de Máquina (AM) e Inteligência Artificial (IA). Conhecimento que pode se tornar de muita utilidade na vida acadêmica e profissional aos participantes. As principais atividades oferecidas serão minicursos, palestras, fórum de iniciação científica e fórum de pós-graduação.
+O propósito da quinta ERAD e ERAMIA da região Norte do Brasil é trazer aos estudantes de graduação e pós-graduação conhecimento científico atualizado nas áreas de Arquitetura de Computadores e Processamento de Alto Desempenho (ACPAD), como nas áreas de Aprendizado de Máquina (AM) e Inteligência Artificial (IA). Conhecimento que pode se tornar de muita utilidade na vida acadêmica e profissional aos participantes. As principais atividades oferecidas serão minicursos, palestras, fórum de iniciação científica e fórum de pós-graduação.
 {: .text-justify}
 
 Organizadas de forma conjunta, estas escolas regionais pretendem estimular o estudo e o desenvolvimento de pesquisas tanto nas áreas de Arquitetura de Computadores e Processamento de Alto Desempenho (ACPAD), como nas áreas de Aprendizado de Máquina (AM) e Inteligência Artificial (IA). A motivação dessa integração decorre do vertiginoso progresso das áreas de AM e IA nos últimos anos, que vem provocando uma crescente demanda por sistemas computacionais de alto desempenho e aceleradores capazes de lidar com análises de grandes volumes de dados em tempo real.
@@ -24,7 +24,7 @@ Organizadas de forma conjunta, estas escolas regionais pretendem estimular o est
 Por outro lado, aplicações de AM e IA também vêm impondo novos desafios aos sistemas computacionais de alto desempenho tradicionais, que necessitam cada vez mais lidar com cargas de trabalho heterogêneas, resultando em novos tópicos de pesquisa. Assim, o objetivo desse evento conjunto é promover ao máximo o intercâmbio de informações e incentivar a pesquisa na intersecção entre as áreas de ACPAD, AM e IA.
 {: .text-justify}
 
-A V ERAD\|ERAMIA Norte 2 2025 será realizada de **forma presencial** em Santarem  na [Universidade Federal do Sul e Sudeste do Pará - Unifesspa](https://www.unifesspa.edu.br/) Campus Marabá no período de **2 a 3 de dezembro de 2025**. As atividades a acontecer durante o evento são: Fórum de Iniciação Científica; Fórum de Pos-Graduação; Minicursos e Palestras.
+A V ERAD\|ERAMIA Norte 2 2025 será realizada de **forma presencial** em Marabá na Universidade Federal do Sul e Sudeste do Pará (Unifesspa), Campus 2, no período de **3 a 4 de dezembro de 2025**. As atividades a acontecer durante o evento são: Fórum de Iniciação Científica; Fórum de Pos-Graduação; Minicursos e Palestras.
 {: .text-justify}
 
 
