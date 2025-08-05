@@ -9,10 +9,10 @@ subtitle: Fórum de Iniciação Científica e Pós-graduação
 
 
 ### Datas importantes:
-- **Data de abertura das chamadas:** a definir
-- **Data limite de submissão de trabalhos:** a definir
-- **Data de notificação de aceitação:** a definir
-- **Data de envio da versão final:**  a definir
+- **Data de abertura das chamadas:** 10/08/2025
+- **Data limite de submissão de trabalhos:** 30/09/2025
+- **Data de notificação de aceitação:** 31/10/2025
+- **Data de envio da versão final:** 10/11/2025
 	
 
 ## Comissão Organizadora V ERAD\|ERAMIA-NO2 2025  
