@@ -35,3 +35,9 @@ end
 # gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "webrick", "~> 1.7"
+
+# Fix for Ruby 3.4+ compatibility - add missing gems
+gem "csv", "~> 3.2"
+gem "logger", "~> 1.5"
+gem "base64", "~> 0.1"
+gem "bigdecimal", "~> 3.1"

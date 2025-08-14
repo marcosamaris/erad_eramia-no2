@@ -34,35 +34,20 @@ Prezadas pessoas autoras interessadas em apresentar seus trabalhos na V Escola R
 * Aprendizado por Reforço
 * Sistemas Tutores Inteligentes
 
-## Comissão Organizadora V ERAD\|ERAMIA-NO2 2025 
+## Comissão Organizadora V ERAD\|ERAMIA-NO2 2025
 
-* Adrielson Ferreira Justino - Universidade Estadual do Maranhão
-* Anderson Menezes - Universidade Federal do Oeste do Pará Campus Santarém
-* Andrik Guimarães Ferreira - Instituto Esperança de Ensino Superior (IESPES) Santarém
-* Angel Pena Galvão - Instituto Federal de Educação Ciência e Tecnologia do Pará Campus Óbidos
-* Antonio Fernando Lavareda Jacob Junior - Universidade Estadual do Maranhão
-* Deam James Azevedo da Silva - Universidade Federal do Oeste do Pará Campus Santarém
-* Diego Gomes - Universidade Federal do Sul e Sudeste do Pará
-* Fábio Manoel França Lobato - Universidade Federal do Oeste do Pará
-* Fabrício Almeida do Carmo - Universidade Federal do Oeste do Pará
-* Flávia Pessoa	Universidade - Federal do Oeste do Pará Campus Oriximiná
-* Gabriele de Sousa Araújo - Universidade Estadual do Maranhão
-* Helaine Cristina Moraes Furtado- Universidade Federal do Oeste do Pará Campus Santarém
-* Iago Medeiros - Universidade Federal do Pará, Campus Tucuruí
-* João Lúcio de Souza Junior - Instituto Federal de Educação Ciência e Tecnologia do Pará Campus Óbidos
-* Josecley Goes - Universidade Federal do Oeste do Pará Campus Santarém
-* Josivaldo de Souza Araújo - Universidade Federal do Pará Campus Belém
-* Kleberson Junio do Amaral Serique - Instituto Federal de Educação Ciência e Tecnologia do Pará Campus Santarém
-* Klenilmar Lopes Dias - Instituto Federal de Educação Ciência e Tecnologia do Amapá
-* Liviane Ponte Rego - Universidade Federal do Oeste do Pará Campus Santarém
-* Marcelino Silva da Silva - Universidade Federal do Oeste do Pará Campus Santarém
-* Marcos Tulio Amaris Gonzalez - Universidade Federal do Pará Campus Belém
-* Paula Renatha - Universidade Federal do Oeste do Pará Campus Santarém
-
-### Comitê de Programa
-A definir ...
-
-
+* Diego de Azevedo Gomes – Universidade Federal do Sul e Sudeste do Pará
+* Diorge de Souza Lima - Universidade Federal do Sul e Sudeste do Pará
+* Dyego Rocha Guedes - Universidade Federal do Sul e Sudeste do Pará
+* Elton Rafael Alves - Universidade Federal do Sul e Sudeste do Pará
+* Fábio de Oliveira Torres – Instituto Federal do Pará 
+* Fernanda Carla Lima Ferreira - Universidade Federal do Sul e Sudeste do Pará
+* João Vitor Costa Carmona - Universidade Federal do Sul e Sudeste do Pará
+* Leia Sousa de Sousa - Universidade Federal do Sul e Sudeste do Pará
+* Rogério Rômulo da Silva - Universidade Federal do Sul e Sudeste do Pará
+* Valdez Aragão de Almeida Filho - Universidade Federal do Sul e Sudeste do Pará
+* Warley Muricy Valente Júnior - Universidade Federal do Sul e Sudeste do Pará
+* Yonatha Marques de Albuquerque Melo - Universidade Federal do Sul e Sudeste do Pará
 
 
 
