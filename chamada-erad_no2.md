@@ -4,13 +4,13 @@ title: Chamada de Trabalhos - V ERAD-NO2 - 2025
 subtitle: Fórum de Iniciação Científica e Pósgraduação
 ---
 
-Prezadas pessoas autoras interessadas em apresentar seus trabalhos na V Escola Regional de Alto Desempenho Norte 2 deverão submeter resumos expandidos em formato da SBC de máximo 4 páginas em Português ou Inglês no formato da SBC utilizando o Link no sistema JEMS. Os Resumos serão avaliados pelos membros do comitê de programa e por revisores externos ao comitê. Os anais serão publicados no SBC OpenLib (SOL), o portal de publicações e conteúdo digital mantido pela Sociedade Brasileira de Computação (SBC).
+Prezadas pessoas autoras interessadas em apresentar seus trabalhos na V Escola Regional de Alto Desempenho Norte 2 deverão submeter resumos expandidos em formato da SBC de máximo 4 páginas em Português ou Inglês no formato da SBC utilizando o [sistema JEMS](https://jems3.sbc.org.br/events/405). Os Resumos serão avaliados pelos membros do comitê de programa e por revisores externos ao comitê. Os anais serão publicados no SBC OpenLib (SOL), o portal de publicações e conteúdo digital mantido pela Sociedade Brasileira de Computação (SBC).
 
 ### Datas importantes:
 
 - **Data de abertura das chamadas:** 10/08/2025
-- **Data limite de submissão de trabalhos:** 30/09/2025
-- **Data de notificação de aceitação:** 31/10/2025
+- **Data limite de submissão de trabalhos:** 17/10/2025
+- **Data de notificação de aceitação:** 07/11/2025
 - **Data de envio da versão final:** 10/11/2025
 
 ## Tópicos de Interesse
