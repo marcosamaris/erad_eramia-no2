@@ -18,10 +18,7 @@ Em ordem de apoio <a href="{% link patrocinadores.md %}" alt="Denominações de 
   <tr >
     
       <H3>ÁGUA &#9733;&#9733;&#9733;</H3> 
-      <a href="https://www2.sbc.org.br/" target="_blank">
-		<img height="75vw" src="{% link /assets/images/logos/sponsors/logo_lexisnexis_1.png %}" 
-		alt="Sociedade Brasileira de Computação - SBC">
-        </a>
+      
 
            
     </tr>
