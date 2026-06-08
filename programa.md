@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Programação Geral da V ERAD|ERAMIA-NO2 2025
-subtitle:  V Escola Regional de Alto Desempenho Norte 2<br>V Escola Regional de Aprendizado de Máquina e Inteligência Artificial Norte 2
+title: Programação Geral da VI ERAD|ERAMIA-NO2 2026
+subtitle:  VI Escola Regional de Alto Desempenho Norte 2<br>VI Escola Regional de Aprendizado de Máquina e Inteligência Artificial Norte 2
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>

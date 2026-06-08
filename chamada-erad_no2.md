@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Chamada de Trabalhos - V ERAD-NO2 - 2025
+title: Chamada de Trabalhos - VI ERAD-NO2 - 2026
 subtitle: Fórum de Iniciação Científica e Pósgraduação
 ---
 
-Prezadas pessoas autoras interessadas em apresentar seus trabalhos na V Escola Regional de Alto Desempenho Norte 2 deverão submeter resumos expandidos em formato da SBC de máximo 4 páginas em Português ou Inglês no formato da SBC utilizando o [sistema JEMS](https://jems3.sbc.org.br/events/405). Os Resumos serão avaliados pelos membros do comitê de programa e por revisores externos ao comitê. Os anais serão publicados no SBC OpenLib (SOL), o portal de publicações e conteúdo digital mantido pela Sociedade Brasileira de Computação (SBC).
+Prezadas pessoas autoras interessadas em apresentar seus trabalhos na VI Escola Regional de Alto Desempenho Norte 2 deverão submeter resumos expandidos em formato da SBC de máximo 4 páginas em Português ou Inglês no formato da SBC utilizando o [sistema JEMS](https://jems3.sbc.org.br/events/405). Os Resumos serão avaliados pelos membros do comitê de programa e por revisores externos ao comitê. Os anais serão publicados no SBC OpenLib (SOL), o portal de publicações e conteúdo digital mantido pela Sociedade Brasileira de Computação (SBC).
 
 ### Datas importantes:
 
-- **Data de abertura das chamadas:** 10/08/2025
-- **Data limite de submissão de trabalhos:** 17/10/2025
-- **Data de notificação de aceitação:** 07/11/2025
-- **Data de envio da versão final:** 10/11/2025
+- **Data de abertura das chamadas:** a definir
+- **Data limite de submissão de trabalhos:** a definir
+- **Data de notificação de aceitação:** a definir
+- **Data de envio da versão final:** a definir
 
 ## Tópicos de Interesse
 
@@ -41,19 +41,5 @@ Prezadas pessoas autoras interessadas em apresentar seus trabalhos na V Escola R
 * Técnicas e Métodos de Extração de Paralelismo
 * Validação, Verificação, Testes e Depuração de Aplicações Paralelas
 
-## Comissão Organizadora V ERAD\|ERAMIA-NO2 2025
-
-* Diego de Azevedo Gomes – Universidade Federal do Sul e Sudeste do Pará
-* Diorge de Souza Lima - Universidade Federal do Sul e Sudeste do Pará
-* Dyego Rocha Guedes - Universidade Federal do Sul e Sudeste do Pará
-* Elton Rafael Alves - Universidade Federal do Sul e Sudeste do Pará
-* Fábio de Oliveira Torres – Instituto Federal do Pará 
-* Fernanda Carla Lima Ferreira - Universidade Federal do Sul e Sudeste do Pará
-* João Vitor Costa Carmona - Universidade Federal do Sul e Sudeste do Pará
-* Leia Sousa de Sousa - Universidade Federal do Sul e Sudeste do Pará
-* Rogério Rômulo da Silva - Universidade Federal do Sul e Sudeste do Pará
-* Valdez Aragão de Almeida Filho - Universidade Federal do Sul e Sudeste do Pará
-* Warley Muricy Valente Júnior - Universidade Federal do Sul e Sudeste do Pará
-* Yonatha Marques de Albuquerque Melo - Universidade Federal do Sul e Sudeste do Pará
-
+## Comissão Organizadora VI ERAD\|ERAMIA-NO2 2026
 
