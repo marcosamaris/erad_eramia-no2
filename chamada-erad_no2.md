@@ -8,10 +8,10 @@ Prezadas pessoas autoras interessadas em apresentar seus trabalhos na VI Escola 
 
 ### Datas importantes:
 
-- **Data de abertura das chamadas:** a definir
-- **Data limite de submissão de trabalhos:** a definir
-- **Data de notificação de aceitação:** a definir
-- **Data de envio da versão final:** a definir
+- Abertura das chamadas: 23/09/2026
+- Submissão de trabalhos: 23/10/2026
+- Notificação de aceitação: 09/11/2026
+- Envio da versão final: 10/11/2026
 
 ## Tópicos de Interesse
 
