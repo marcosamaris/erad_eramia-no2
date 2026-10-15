@@ -7,7 +7,7 @@ subtitle:  VI Escola Regional de Alto Desempenho Norte 2<br>VI Escola Regional d
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script language="JavaScript" type="text/javascript"  src="/erad_eramia-no2/2024/assets/js/read_more.js"></script>
 
-<style type="text/css">
+<!-- <style type="text/css">
 
 .palestrantes {
   table-layout: fixed;
@@ -70,7 +70,6 @@ padding-left: 0px;
   height: 150px;
   width: 150px;
 }
-</style>
+</style> -->
 
-
-a definir ...
+<img src="{{ '/assets/images/tabela-programacao-erad.png' | relative_url }}" alt="Tabela de Valores de Inscrição" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto;">

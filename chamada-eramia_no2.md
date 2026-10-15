@@ -4,7 +4,7 @@ title: Chamada de Trabalhos - VI ERAMIA-NO2 - 2026
 subtitle: Fórum de Iniciação Científica e Pósgraduação
 ---
 
-Prezadas pessoas autoras interessadas em apresentar seus trabalhos na VI Escola Regional de Aprendizado de Máquina e Inteligência Artificial Norte 2 deverão submeter resumos expandidos em formato da SBC de máximo 4 páginas em Português ou Inglês no formato da SBC utilizando o [sistema JEMS](https://jems3.sbc.org.br/events/405). Os Resumos serão avaliados pelos membros do comitê de programa e por revisores externos ao comitê. Os anais serão publicados no SBC OpenLib (SOL), o portal de publicações e conteúdo digital mantido pela Sociedade Brasileira de Computação (SBC).
+Prezadas pessoas autoras interessadas em apresentar seus trabalhos na VI Escola Regional de Aprendizado de Máquina e Inteligência Artificial Norte 2 deverão submeter resumos expandidos em formato da SBC de máximo 4 páginas em Português ou Inglês no formato da SBC utilizando o [sistema JEMS](https://jems3.sbc.org.br/eradeeramia-no22026). Os Resumos serão avaliados pelos membros do comitê de programa e por revisores externos ao comitê. Os anais serão publicados no SBC OpenLib (SOL), o portal de publicações e conteúdo digital mantido pela Sociedade Brasileira de Computação (SBC).
 
 ### Datas importantes:
 
@@ -36,3 +36,9 @@ Prezadas pessoas autoras interessadas em apresentar seus trabalhos na VI Escola 
 * Sistemas Tutores Inteligentes
 
 ## Comissão Organizadora VI ERAD\|ERAMIA-NO2 2026
+
+* Thiêgo Maciel Nunes - Instituto Federal do Amapá
+* Rafael Pontes Lima - Universidade Federal do Amapá
+* Iago Lins Medeiros - Universidade Federal do Pará
+* Klessis Lopes Dias - Instituto Federal do Amapá
+* Marcoz Tulio Amaris Gonzalez - Universidade Federal do Pará

@@ -24,13 +24,13 @@ Organizadas de forma conjunta, estas escolas regionais pretendem estimular o est
 Por outro lado, aplicações de AM e IA também vêm impondo novos desafios aos sistemas computacionais de alto desempenho tradicionais, que necessitam cada vez mais lidar com cargas de trabalho heterogêneas, resultando em novos tópicos de pesquisa. Assim, o objetivo desse evento conjunto é promover ao máximo o intercâmbio de informações e incentivar a pesquisa na intersecção entre as áreas de ACPAD, AM e IA.
 {: .text-justify}
 
-A VI ERAD\|ERAMIA Norte 2 2026 será realizada de **forma presencial** em Macapá no Instituto Federal de Macapá, no período de **26 a 27 de novembro de 2026**. As atividades a acontecer durante o evento são: Fórum de Iniciação Científica; Fórum de Pos-Graduação; Minicursos e Palestras.
+A VI ERAD\|ERAMIA Norte 2 2026 será realizada de **forma presencial** em Macapá, na Universidade Federal de Macapá, no período de **26 a 27 de novembro de 2026**.
 {: .text-justify}
 
 
-A VI ERAD\|ERAMIA-NO2 2026 acontecerá na [Instituto Federal de Macapá - IFAP](https://www.ifap.edu.br/). Veja o Mapa:
+A VI ERAD\|ERAMIA-NO2 2026 acontecerá na [Universidade Federal de Macapá - UNIFAP](https://unifap.com.br/). Veja o Mapa:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23746.1868275901!2d-51.10170524026376!3d0.08540285237654975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8d61e680b76ce263%3A0x30df88c4500fefcd!2sFederal%20Institute%20Amap%C3%A1!5e0!3m2!1sen!2sus!4v1780956734630!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.818270192112!2d-51.08815382415937!3d-0.009084499990822519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x929e1f00531be1c9%3A0x46f0536468d539aa!2sUnifap%20Digital!5e0!3m2!1spt-BR!2sbr!4v1790011694792!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 [Em breve Inscrições pelo sistema ECOS da SBC](https://centraldesistemas.sbc.org.br/ecos/eradeeramiaNO2-2026). Siganos nas diferentes Redes Sociais:<br>
 
