@@ -28,7 +28,7 @@ A VI ERAD\|ERAMIA Norte 2 2026 será realizada de **forma presencial** em Macap�
 {: .text-justify}
 
 
-A VI ERAD\|ERAMIA-NO2 2026 acontecerá na [Universidade Federal de Macapá - UNIFAP](https://unifap.com.br/). Veja o Mapa:
+A VI ERAD\|ERAMIA-NO2 2026 acontecerá na [Universidade Federal de Macapá - UNIFAP](https://unifapdigital.unifap.br/). Veja o Mapa:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.818270192112!2d-51.08815382415937!3d-0.009084499990822519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x929e1f00531be1c9%3A0x46f0536468d539aa!2sUnifap%20Digital!5e0!3m2!1spt-BR!2sbr!4v1790011694792!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
