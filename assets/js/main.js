@@ -30,7 +30,9 @@
 
 	// Dropdowns.
 		$('#nav > ul').dropotron({
-			alignment: 'right'
+			alignment: 'right',
+			baseZIndex: 10001,
+			globalOffsetY: -24
 		});
 
 	// NavPanel.

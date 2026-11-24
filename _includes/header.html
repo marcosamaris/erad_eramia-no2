@@ -2,7 +2,7 @@
 <header id="header">
   <h1><a href="{% link index.md %}"><img src="{{ "/assets/images/logos/erad-eramia-logo-sem-texto.png" | relative_url }}" alt="Logotipo da VI ERAD|ERAMIA-NO2 2026" style="vertical-align: middle;"> 
     <b style="color:whitesmoke;">VI ERAD|ERAMIA-NO2 2026</b></a></h1>
-  <nav id="nav" ">
+  <nav id="nav">
     <ul>
       <li><a href="{% link index.md %}">Home</a></li>
       <li>
@@ -41,35 +41,14 @@
     </ul>
     </nav>
   
-   <br>
-              <div style="display: table-cell; background: transparent; float:left;  ">
-                 
-      <strong> Realização</strong><br><a href="http://www.sbc.org.br/" target="_blank"><img src="{% link /assets/images/logos/sponsors/SBC.png %}" alt="Sociedade Brasileira de Computação" srcset="{% link /assets/images/logos/sponsors/SBC.svg %}" width="20%" height="20%"></a>
-      <br>
-      <!-- 
-      <strong> Organização</strong>
-      <br>
-      <a href="http://www.ufpa.br/" target="_blank"><img src="{% link /assets/images/logos/sponsors/UFPA.png %}" alt="Universidade Federal do Pará" srcset="{% link /assets/images/logos/sponsors/UFPA.svg %}" width="5%" height="5%"></a>
-      <br>
-      <a href="http://www.ufopa.br/" target="_blank"><img src="{% link /assets/images/logos/sponsors/unifesspa.jpg %}" alt="Universidade Federal do Pará" srcset="{% link /assets/images/logos/sponsors/unifesspa.png %}" width="5%" height="5%"></a>
-      <br>
-      -->    
-        </div>
-            
-            <div style="width: 8%; display: table-cell; background: transparent; float:right; "> 
-                <strong>ERAD-NO2</strong><br>
-                
-                <a  target="_self" href="{% link index.md %}" target="_blank"><img src="{% link /assets/images/logos/logo_ERAD-NO.png %}" alt="Logo ERAD-NO2" width="100%" height="100%" float="right"></a><br>
-                
-                
-                <strong>ERAMIA-NO2</strong><br>
-                <a  target="_self" href="{% link index.md %}" target="_blank"><img src="{% link /assets/images/logos/logo_ERAMIA-NO.png %}" alt="Logo ERAD-NO2" width="100%" height="100%" float="right"></a><br><br>
-            </div>
-       
-
-        
-    
-  
-  
-  
+  <div class="event-branding" role="group" aria-label="Identidades dos eventos">
+    <a class="event-branding__item" href="{% link index.md %}" aria-label="ERAD-NO2">
+      <img src="{% link /assets/images/logos/logo_ERAD-NO.png %}" alt="">
+      <span>ERAD-NO2</span>
+    </a>
+    <a class="event-branding__item" href="{% link index.md %}" aria-label="ERAMIA-NO2">
+      <img src="{% link /assets/images/logos/logo_ERAMIA-NO.png %}" alt="">
+      <span>ERAMIA-NO2</span>
+    </a>
+  </div>
 </header>

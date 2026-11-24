@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1053" role="img" aria-labelledby="title description">
+  <title id="title">Instituto Federal do Amapá</title>
+  <desc id="description">Símbolo geométrico verde e vermelho sobre o nome Instituto Federal Amapá.</desc>
+  <g fill="#2f9e40">
+    <rect x="543" y="23" width="114" height="113" rx="12"/>
+    <rect x="679" y="23" width="113" height="113" rx="12"/>
+    <rect x="407" y="158" width="114" height="114" rx="12"/>
+    <rect x="543" y="158" width="114" height="114" rx="12"/>
+    <rect x="407" y="294" width="114" height="113" rx="12"/>
+    <rect x="543" y="294" width="114" height="113" rx="12"/>
+    <rect x="679" y="294" width="113" height="113" rx="12"/>
+    <rect x="407" y="430" width="114" height="113" rx="12"/>
+    <rect x="543" y="430" width="114" height="113" rx="12"/>
+  </g>
+  <circle cx="464" cy="80" r="62" fill="#cd181d"/>
+  <g fill="#050505" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="602" y="737" font-size="151" font-weight="700" textLength="818" lengthAdjust="spacingAndGlyphs">INSTITUTO</text>
+    <text x="604" y="870" font-size="151" font-weight="700" textLength="664" lengthAdjust="spacingAndGlyphs">FEDERAL</text>
+    <text x="595" y="1008" font-size="112" font-weight="300" textLength="383" lengthAdjust="spacingAndGlyphs">Amapá</text>
+  </g>
+</svg>
