@@ -10,10 +10,11 @@ subtitle: Fórum de Iniciação Científica e Pós-graduação
 
 ### Datas importantes:
 
+
 - Abertura das chamadas: 23/09/2026
-- Submissão de trabalhos: 23/10/2026
-- Notificação de aceitação: 09/11/2026
-- Envio da versão final: 10/11/2026
+- Submissão de trabalhos: ~~23/10/2026~~ - ~~30/10/2026~~ - 02/11/2026
+- Notificação de aceitação: ~~09/11/2026~~ - 19/11/2026
+- Envio da versão final: ~~10/11/2026~~~ - 20/11/2026
 
 	
 
